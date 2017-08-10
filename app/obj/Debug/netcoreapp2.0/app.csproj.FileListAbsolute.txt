@@ -1,0 +1,12 @@
+/Users/chris/github/netcoretut/app/bin/Debug/netcoreapp2.0/app.deps.json
+/Users/chris/github/netcoretut/app/bin/Debug/netcoreapp2.0/app.runtimeconfig.json
+/Users/chris/github/netcoretut/app/bin/Debug/netcoreapp2.0/app.runtimeconfig.dev.json
+/Users/chris/github/netcoretut/app/bin/Debug/netcoreapp2.0/app.dll
+/Users/chris/github/netcoretut/app/bin/Debug/netcoreapp2.0/app.pdb
+/Users/chris/github/netcoretut/app/bin/Debug/netcoreapp2.0/library.dll
+/Users/chris/github/netcoretut/app/bin/Debug/netcoreapp2.0/library.pdb
+/Users/chris/github/netcoretut/app/obj/Debug/netcoreapp2.0/app.csproj.CoreCompileInputs.cache
+/Users/chris/github/netcoretut/app/obj/Debug/netcoreapp2.0/app.AssemblyInfoInputs.cache
+/Users/chris/github/netcoretut/app/obj/Debug/netcoreapp2.0/app.AssemblyInfo.cs
+/Users/chris/github/netcoretut/app/obj/Debug/netcoreapp2.0/app.dll
+/Users/chris/github/netcoretut/app/obj/Debug/netcoreapp2.0/app.pdb

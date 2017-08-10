@@ -1,0 +1,15 @@
+/Users/chris/github/netcoretut/test-library/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/chris/github/netcoretut/test-library/bin/Debug/netcoreapp2.0/xunit.runner.utility.netstandard15.dll
+/Users/chris/github/netcoretut/test-library/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netstandard15.dll
+/Users/chris/github/netcoretut/test-library/bin/Debug/netcoreapp2.0/test-library.deps.json
+/Users/chris/github/netcoretut/test-library/bin/Debug/netcoreapp2.0/test-library.runtimeconfig.json
+/Users/chris/github/netcoretut/test-library/bin/Debug/netcoreapp2.0/test-library.runtimeconfig.dev.json
+/Users/chris/github/netcoretut/test-library/bin/Debug/netcoreapp2.0/test-library.dll
+/Users/chris/github/netcoretut/test-library/bin/Debug/netcoreapp2.0/test-library.pdb
+/Users/chris/github/netcoretut/test-library/bin/Debug/netcoreapp2.0/library.dll
+/Users/chris/github/netcoretut/test-library/bin/Debug/netcoreapp2.0/library.pdb
+/Users/chris/github/netcoretut/test-library/obj/Debug/netcoreapp2.0/test-library.csproj.CoreCompileInputs.cache
+/Users/chris/github/netcoretut/test-library/obj/Debug/netcoreapp2.0/test-library.AssemblyInfoInputs.cache
+/Users/chris/github/netcoretut/test-library/obj/Debug/netcoreapp2.0/test-library.AssemblyInfo.cs
+/Users/chris/github/netcoretut/test-library/obj/Debug/netcoreapp2.0/test-library.dll
+/Users/chris/github/netcoretut/test-library/obj/Debug/netcoreapp2.0/test-library.pdb
